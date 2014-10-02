@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<workbenchAdvisor/>
+<window height="808" width="1277" x="0" y="22">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout locked="0">
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="85" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="com.salesforce.ide.ui.actionset" itemType="typeToolBarContribution" x="75" y="22"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="41" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="41" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="156" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="com.salesforce.ide.ui.editors.apex" itemType="typeToolBarContribution" x="32" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="com.salesforce.ide.ui.editors.html" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1412178612091" focus="true" label="Workspace - Force.com">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor activePart="true" focus="true" id="com.salesforce.ide.ui.editors.apex" name="sfafields.cls" partName="sfafields.cls" path="/Users/roberto/proyectos/clay/clay-apps/sfafields/sf/development/src/classes/sfafields.cls" title="sfafields.cls" tooltip="development/src/classes/sfafields.cls" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/development/src/classes/sfafields.cls"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.team.sync.views.SynchronizeView" partName="Synchronize"/>
+<view id="com.salesforce.ide.ui.view.debugLog" partName="Execute Anonymous">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<columnWidths org.eclipse.ui.ide.locationField="84" org.eclipse.ui.ide.markerType="114" org.eclipse.ui.ide.pathField="144" org.eclipse.ui.ide.resourceField="114" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
+<viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="">
+<customFilters userDefinedPatternsEnabled="false">
+<xmlDefinedFilters>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.StaticsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.FieldsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter" isEnabled="true"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
+</view>
+<view id="com.salesforce.ide.ui.view.runTest" partName="Apex Test Runner">
+<viewState/>
+</view>
+<view id="org.eclipse.help.ui.HelpView" partName="Help"/>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.cheatsheets.views.CheatSheetView" partName="Cheat Sheets"/>
+</views>
+<perspectives activePart="com.salesforce.ide.ui.editors.apex" activePerspective="com.salesforce.ide.perspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.salesforce.ide.ui.perspective.ForcePerspectiveFactory" id="com.salesforce.ide.perspective" label="Force.com"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="com.salesforce.ide.ui.actionset"/>
+<alwaysOnActionSet id="com.salesforce.ide.ui.actionset.help"/>
+<alwaysOnActionSet id="com.salesforce.ide.ui.editors.intro.menuActionSet"/>
+<alwaysOnActionSet id="com.salesforce.ide.deployment.actionset"/>
+<show_view_action id="com.salesforce.ide.ui.view.runTest"/>
+<show_view_action id="com.salesforce.ide.ui.view.debugLog"/>
+<show_view_action id="com.salesforce.ide.ui.view.log"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<new_wizard_action id="com.salesforce.ide.ui.wizards.createProject"/>
+<new_wizard_action id="com.salesforce.ide.ui.wizards.createApexClass"/>
+<new_wizard_action id="com.salesforce.ide.ui.wizards.createApexTrigger"/>
+<new_wizard_action id="com.salesforce.ide.ui.wizards.createCustomApplication"/>
+<new_wizard_action id="com.salesforce.ide.ui.wizards.createCustomObject"/>
+<new_wizard_action id="com.salesforce.ide.ui.wizards.createHomePageComponent"/>
+<new_wizard_action id="com.salesforce.ide.ui.wizards.createHomePageLayout"/>
+<new_wizard_action id="com.salesforce.ide.ui.wizards.createLetterhead"/>
+<new_wizard_action id="com.salesforce.ide.ui.wizards.createProfile"/>
+<new_wizard_action id="com.salesforce.ide.ui.wizards.createApexComponent"/>
+<new_wizard_action id="com.salesforce.ide.ui.wizards.createApexPage"/>
+<new_wizard_action id="com.salesforce.ide.ui.wizards.createWorkflow"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="com.salesforce.ide.ui.view.runTest"/>
+<view id="com.salesforce.ide.ui.view.debugLog"/>
+<view id="org.eclipse.team.sync.views.SynchronizeView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.help.ui.HelpView"/>
+<view id="org.eclipse.ui.cheatsheets.views.CheatSheetView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="762" ratioRight="254" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.34945706" ratioLeft="354" ratioRight="659" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.6025641" ratioLeft="423" ratioRight="279" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="com.salesforce.ide.ui.view.debugLog" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="com.salesforce.ide.ui.view.runTest" label="Apex Test Runner"/>
+<page content="com.salesforce.ide.ui.view.debugLog" label="Execute Anonymous"/>
+<page content="org.eclipse.team.sync.views.SynchronizeView" label="Synchronize"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@17a7861" ratio="0.7493438" ratioLeft="571" ratioRight="191" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.help.ui.HelpView" label="Help"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="Cheat Sheets"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" path="/development/src/pages/sf1fields_dev.page-meta.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" path="/development/src/classes/sfafields_test.cls"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" path="/development/src/classes/sfafields.cls"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" path="/development/src/classes/objectHelper.cls"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.html" path="/development/src/components/ThreeVotComponent.component"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" path="/development/src/classes/ThreeVotApiOperations.cls"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" path="/development/src/classes/Test_ThreeVotApiController.cls"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" path="/development/src/classes/IApexController.cls"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" path="/development/src/classes/RemoteTKController.cls"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" path="/development/src/classes/ThreeVotApiController.cls"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" path="/development/src/classes/Test_ThreeVotApiController.cls-meta.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="" path="/development/src/components/ThreeVotComponent.component"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="" path="/development/src/components/ThreeVotComponent.component-meta.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" path="/development/src/classes/ThreeVotApiOperations.cls-meta.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" path="/development/src/classes/IApexController.cls-meta.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" path="/development/src/classes/RemoteTKController.cls-meta.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" path="/development/src/classes/ThreeVotApiController.cls-meta.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" path="/development/src/classes/ExampleClass.cls"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" path="/development/src/classes/ThreeVotApiController.cls"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" path="/development/src/classes/ExampleClass.cls-meta.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" path="/development/src/classes/Test_ThreeVotApiController.cls-meta.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" path="/development/src/classes/Test_ThreeVotApiController.cls"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" path="/development/src/classes/MetadataServiceTest.cls"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" path="/development/src/classes/MetadataService.cls"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" path="/development/src/classes/MetadataServiceTest.cls-meta.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" path="/development/src/classes/MetadataService.cls-meta.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" path="/development/src/classes/sfafields.cls"/>
+</editors>
+<item historyLabel="sf1fields_dev.page-meta.xml" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sfafields_test.cls" index="1"/>
+<item historyLabel="sfafields.cls" index="2"/>
+<item historyLabel="sfafields_test.cls" index="1"/>
+<item historyLabel="objectHelper.cls" index="3"/>
+<item historyLabel="sfafields.cls" index="2"/>
+<item historyLabel="objectHelper.cls" index="3"/>
+<item historyLabel="sfafields.cls" index="2"/>
+<item historyLabel="ThreeVotComponent.component" index="4"/>
+<item historyLabel="ThreeVotApiOperations.cls" index="5"/>
+<item historyLabel="Test_ThreeVotApiController.cls" index="6"/>
+<item historyLabel="IApexController.cls" index="7"/>
+<item historyLabel="RemoteTKController.cls" index="8"/>
+<item historyLabel="ThreeVotApiController.cls" index="9"/>
+<item historyLabel="ThreeVotApiOperations.cls" index="5"/>
+<item historyLabel="ThreeVotApiController.cls" index="9"/>
+<item historyLabel="ThreeVotApiOperations.cls" index="5"/>
+<item historyLabel="ThreeVotApiController.cls" index="9"/>
+<item historyLabel="Test_ThreeVotApiController.cls" index="6">
+<position info="not_deleted" x="6406" y="4"/>
+</item>
+<item historyLabel="Test_ThreeVotApiController.cls-meta.xml" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ThreeVotComponent.component" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ThreeVotComponent.component-meta.xml" index="12">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ThreeVotApiOperations.cls" index="5">
+<position info="not_deleted" x="26" y="21"/>
+</item>
+<item historyLabel="ThreeVotApiOperations.cls-meta.xml" index="13">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Test_ThreeVotApiController.cls" index="6">
+<position info="not_deleted" x="6406" y="4"/>
+</item>
+<item historyLabel="Test_ThreeVotApiController.cls-meta.xml" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="IApexController.cls" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="IApexController.cls-meta.xml" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="RemoteTKController.cls" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="RemoteTKController.cls-meta.xml" index="15">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ThreeVotApiController.cls" index="9">
+<position info="not_deleted" x="2943" y="21"/>
+</item>
+<item historyLabel="ThreeVotApiController.cls-meta.xml" index="16">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ThreeVotApiOperations.cls" index="5"/>
+<item historyLabel="ThreeVotApiController.cls" index="9"/>
+<item historyLabel="Test_ThreeVotApiController.cls" index="6"/>
+<item historyLabel="ExampleClass.cls" index="17"/>
+<item historyLabel="ThreeVotApiController.cls" index="18"/>
+<item historyLabel="ExampleClass.cls" index="17">
+<position info="not_deleted" x="315" y="0"/>
+</item>
+<item historyLabel="ExampleClass.cls-meta.xml" index="19">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Test_ThreeVotApiController.cls" index="6">
+<position info="not_deleted" x="3268" y="0"/>
+</item>
+<item historyLabel="Test_ThreeVotApiController.cls-meta.xml" index="20">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="Test_ThreeVotApiController.cls" index="21"/>
+<item historyLabel="MetadataServiceTest.cls" index="22"/>
+<item historyLabel="MetadataService.cls" index="23"/>
+<item historyLabel="MetadataServiceTest.cls" index="22">
+<position info="not_deleted" x="44085" y="0"/>
+</item>
+<item historyLabel="MetadataServiceTest.cls-meta.xml" index="24">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="MetadataService.cls" index="23">
+<position info="not_deleted" x="748160" y="0"/>
+</item>
+<item historyLabel="MetadataService.cls-meta.xml" index="25">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="MetadataServiceTest.cls" index="22"/>
+<item active="true" historyLabel="sfafields.cls" index="26"/>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" name="sfafields.cls" tooltip="development/src/classes/sfafields.cls">
+<persistable path="/development/src/classes/sfafields.cls"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" name="ExampleClass.cls" tooltip="development/src/classes/ExampleClass.cls">
+<persistable path="/development/src/classes/ExampleClass.cls"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" name="ThreeVotApiController.cls" tooltip="development/src/classes/ThreeVotApiController.cls">
+<persistable path="/development/src/classes/ThreeVotApiController.cls"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" name="RemoteTKController.cls" tooltip="development/src/classes/RemoteTKController.cls">
+<persistable path="/development/src/classes/RemoteTKController.cls"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" name="IApexController.cls" tooltip="development/src/classes/IApexController.cls">
+<persistable path="/development/src/classes/IApexController.cls"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" name="Test_ThreeVotApiController.cls" tooltip="development/src/classes/Test_ThreeVotApiController.cls">
+<persistable path="/development/src/classes/Test_ThreeVotApiController.cls"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" name="ThreeVotApiOperations.cls" tooltip="development/src/classes/ThreeVotApiOperations.cls">
+<persistable path="/development/src/classes/ThreeVotApiOperations.cls"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.html" name="ThreeVotComponent.component" tooltip="development/src/components/ThreeVotComponent.component">
+<persistable path="/development/src/components/ThreeVotComponent.component"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.apex" name="sfafields_test.cls" tooltip="development/src/classes/sfafields_test.cls">
+<persistable path="/development/src/classes/sfafields_test.cls"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="sf1fields_dev.page-meta.xml" tooltip="development/src/pages/sf1fields_dev.page-meta.xml">
+<persistable path="/development/src/pages/sf1fields_dev.page-meta.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" name="sf1fields.page-meta.xml" tooltip="development/src/pages/sf1fields.page-meta.xml">
+<persistable path="/development/src/pages/sf1fields.page-meta.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.salesforce.ide.ui.editors.html" name="sf1fields.page" tooltip="development/src/pages/sf1fields.page">
+<persistable path="/development/src/pages/sf1fields.page"/>
+</file>
+</mruList>
+</workbench>

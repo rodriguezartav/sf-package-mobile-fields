@@ -1,0 +1,1318 @@
+!SESSION 2014-10-01 09:50:04.310 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Users/roberto/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -data /Users/roberto/proyectos/clay/clay-apps/sfafields/sf -keyring /Users/roberto/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-10-01 09:50:06.338
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 09:50:23.139
+!MESSAGE  WARN [2014-10-01 09:50:23,137] (ConnectionFactory.java:clearCache:209) - No cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 09:50:23.140
+!MESSAGE  WARN [2014-10-01 09:50:23,140] (DescribeObjectRegistry.java:clearCache:654) - No cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 09:50:23.141
+!MESSAGE  WARN [2014-10-01 09:50:23,140] (MetadataFactory.java:clearCache:120) - No cached metadata stubs
+
+!SESSION 2014-10-01 09:51:31.254 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Users/roberto/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -data /Users/roberto/proyectos/clay/clay-apps/sfafields/sf -keyring /Users/roberto/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-10-01 09:51:33.246
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 09:52:51.142
+!MESSAGE  WARN [2014-10-01 09:52:51,137] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SamlSsoConfig': Unable to get bean for id 'SamlSsoConfig'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 09:52:52.281
+!MESSAGE  WARN [2014-10-01 09:52:52,280] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SamlSsoConfig': Unable to get bean for id 'SamlSsoConfig'
+
+
+!ENTRY com.salesforce.ide.core 4 0 2014-10-01 14:02:15.315
+!MESSAGE ERROR [2014-10-01 14:02:15,312] (MetadataOperationsRetryAspect.java:metadataOperationsRetry:24) - ForceRemoteException occurred while attempting to perform a metadata operation
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 14:02:24.608
+!MESSAGE  WARN [2014-10-01 14:02:24,608] (ProjectPackageList.java:getComponentByMetadataFilePath:826) - Did not find component for 'classes/objectHelper.cls'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 14:02:24.609
+!MESSAGE  WARN [2014-10-01 14:02:24,609] (ProjectService.java:handleRetrieveMessages:2180) - Unable to handle retrieve message - could not find component 'classes/objectHelper.cls' for message 'In field: specific ids - no ApexClass named objectHelper found'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 14:02:24.619
+!MESSAGE  WARN [2014-10-01 14:02:24,614] (Utils.java:loadDocument:823) - Unable to load document: /Users/roberto/proyectos/clay/clay-apps/sfafields/sf/.metadata/.plugins/org.eclipse.core.resources/.projects/development/com.salesforce.ide.core/packageCache.xml (No such file or directory)
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 14:02:24.620
+!MESSAGE  WARN [2014-10-01 14:02:24,620] (DeleteRefactorController.java:run:342) - Unable to update cache with with deleted component(s)  - cache is not found
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 14:17:48.710
+!MESSAGE  WARN [2014-10-01 14:17:48,709] (ConnectionFactory.java:clearCache:212) - Clearing the following cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 14:17:48.712
+!MESSAGE  WARN [2014-10-01 14:17:48,711] (DescribeObjectRegistry.java:clearCache:657) - Clearing cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 14:17:48.712
+!MESSAGE  WARN [2014-10-01 14:17:48,712] (MetadataFactory.java:clearCache:123) - Clearing the following cached metadata stubs
+
+!SESSION 2014-10-01 15:11:43.185 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Users/roberto/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -data /Users/roberto/proyectos/clay/clay-apps/sfafields/sf -keyring /Users/roberto/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-10-01 15:11:45.782
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 15:20:07.910
+!MESSAGE  WARN [2014-10-01 15:20:07,898] (BasePackageService.java:waitForResult:144) - Deploy or retrieve operation to 'https://na17.salesforce.com/services/Soap/m/28.0/00Do0000000bPIm' failed: UNKNOWN_EXCEPTION: An unknown exception has occurred. (UNKNOWN_EXCEPTION)
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 15:20:07.930
+!MESSAGE  WARN [2014-10-01 15:20:07,930] (PackageDeployService.java:deployWork:287) - Unable to retrieve components: ServiceException: UNKNOWN_EXCEPTION: An unknown exception has occurred. (UNKNOWN_EXCEPTION)
+
+
+!ENTRY com.salesforce.ide.core 4 0 2014-10-01 15:20:07.984
+!MESSAGE ERROR [2014-10-01 15:20:07,983] (RunTestsAction.java:execute:93) - Unable to run tests
+
+!STACK 0
+com.salesforce.ide.core.services.ServiceException: UNKNOWN_EXCEPTION: An unknown exception has occurred. (UNKNOWN_EXCEPTION)
+	at com.salesforce.ide.core.services.BasePackageService.waitForResult(BasePackageService.java:151)
+	at com.salesforce.ide.core.services.PackageDeployService.getDeployResult(PackageDeployService.java:188)
+	at com.salesforce.ide.core.services.PackageDeployService.deployWork(PackageDeployService.java:278)
+	at com.salesforce.ide.core.services.PackageDeployService.deploy(PackageDeployService.java:177)
+	at com.salesforce.ide.core.services.RunTestsService.runTests(RunTestsService.java:67)
+	at com.salesforce.ide.core.services.RunTestsService.runTests(RunTestsService.java:48)
+	at com.salesforce.ide.ui.actions.RunTestsAction$1.run(RunTestsAction.java:70)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:464)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:372)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:507)
+	at org.eclipse.ui.internal.progress.ProgressMonitorJobsDialog.run(ProgressMonitorJobsDialog.java:275)
+	at org.eclipse.ui.internal.progress.ProgressManager.run(ProgressManager.java:1178)
+	at com.salesforce.ide.ui.actions.RunTestsAction.execute(RunTestsAction.java:62)
+	at com.salesforce.ide.ui.actions.BaseAction.run(BaseAction.java:197)
+	at org.eclipse.ui.internal.PluginAction.runWithEvent(PluginAction.java:251)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:584)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:501)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:411)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1598)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1622)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1607)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1396)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3484)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3068)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 15:23:16.918
+!MESSAGE  WARN [2014-10-01 15:23:16,917] (ConnectionFactory.java:clearCache:212) - Clearing the following cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 15:23:16.919
+!MESSAGE  WARN [2014-10-01 15:23:16,919] (DescribeObjectRegistry.java:clearCache:657) - Clearing cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 15:23:16.920
+!MESSAGE  WARN [2014-10-01 15:23:16,919] (MetadataFactory.java:clearCache:123) - Clearing the following cached metadata stubs
+
+!SESSION 2014-10-01 15:26:53.565 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Users/roberto/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -data /Users/roberto/proyectos/clay/clay-apps/sfafields/sf -keyring /Users/roberto/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-10-01 15:26:55.472
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 15:28:12.015
+!MESSAGE  WARN [2014-10-01 15:28:12,006] (ComponentFactory.java:getCompositeComponentFromComponent:1093) - Unable to load existing 'classes/ExampleClass.cls-meta.xml' from project - associated component's file resource is null.  Assuming new.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 15:28:13.247
+!MESSAGE  WARN [2014-10-01 15:28:13,245] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SamlSsoConfig': Unable to get bean for id 'SamlSsoConfig'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 15:28:17.071
+!MESSAGE  WARN [2014-10-01 15:28:17,067] (Utils.java:loadDocument:823) - Unable to load document: /Users/roberto/proyectos/clay/clay-apps/sfafields/sf/.metadata/.plugins/org.eclipse.core.resources/.projects/development/com.salesforce.ide.core/packageCache.xml (No such file or directory)
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 15:28:17.072
+!MESSAGE  WARN [2014-10-01 15:28:17,072] (ComponentController.java:run:370) - Unable to update cache with new component Apex Class - cache is not found
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 17:38:17.782
+!MESSAGE  WARN [2014-10-01 17:38:17,781] (ConnectionFactory.java:clearCache:212) - Clearing the following cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 17:38:17.785
+!MESSAGE  WARN [2014-10-01 17:38:17,784] (DescribeObjectRegistry.java:clearCache:657) - Clearing cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 17:38:17.785
+!MESSAGE  WARN [2014-10-01 17:38:17,785] (MetadataFactory.java:clearCache:123) - Clearing the following cached metadata stubs
+
+!SESSION 2014-10-01 18:43:53.376 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Users/roberto/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -data /Users/roberto/proyectos/clay/clay-apps/sfafields/sf -keyring /Users/roberto/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-10-01 18:43:55.721
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 18:47:00.592
+!MESSAGE  WARN [2014-10-01 18:47:00,585] (ComponentFactory.java:getCompositeComponentFromComponent:1093) - Unable to load existing 'classes/MetadataServiceTest.cls-meta.xml' from project - associated component's file resource is null.  Assuming new.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 18:47:01.907
+!MESSAGE  WARN [2014-10-01 18:47:01,906] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SamlSsoConfig': Unable to get bean for id 'SamlSsoConfig'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 18:47:05.340
+!MESSAGE  WARN [2014-10-01 18:47:05,334] (Utils.java:loadDocument:823) - Unable to load document: /Users/roberto/proyectos/clay/clay-apps/sfafields/sf/.metadata/.plugins/org.eclipse.core.resources/.projects/development/com.salesforce.ide.core/packageCache.xml (No such file or directory)
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 18:47:05.341
+!MESSAGE  WARN [2014-10-01 18:47:05,340] (ComponentController.java:run:370) - Unable to update cache with new component Apex Class - cache is not found
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 18:47:26.333
+!MESSAGE  WARN [2014-10-01 18:47:26,320] (ComponentFactory.java:getCompositeComponentFromComponent:1093) - Unable to load existing 'classes/MetadataService.cls-meta.xml' from project - associated component's file resource is null.  Assuming new.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 18:47:27.151
+!MESSAGE  WARN [2014-10-01 18:47:27,150] (ComponentFactory.java:getComponentBean:1145) - Unable to get component for id 'SamlSsoConfig': Unable to get bean for id 'SamlSsoConfig'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 18:47:30.535
+!MESSAGE  WARN [2014-10-01 18:47:30,535] (Utils.java:loadDocument:823) - Unable to load document: /Users/roberto/proyectos/clay/clay-apps/sfafields/sf/.metadata/.plugins/org.eclipse.core.resources/.projects/development/com.salesforce.ide.core/packageCache.xml (No such file or directory)
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 18:47:30.536
+!MESSAGE  WARN [2014-10-01 18:47:30,536] (ComponentController.java:run:370) - Unable to update cache with new component Apex Class - cache is not found
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 18:56:27.071
+!MESSAGE  WARN [2014-10-01 18:56:27,069] (ProjectPackageList.java:getComponentByMetadataFilePath:826) - Did not find component for 'classes/MetadataService.cls'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 18:56:27.072
+!MESSAGE  WARN [2014-10-01 18:56:27,071] (ProjectService.java:handleRetrieveMessages:2180) - Unable to handle retrieve message - could not find component 'classes/MetadataService.cls' for message 'In field: specific ids - no ApexClass named MetadataService found'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 18:56:27.072
+!MESSAGE  WARN [2014-10-01 18:56:27,072] (ProjectPackageList.java:getComponentByMetadataFilePath:826) - Did not find component for 'classes/MetadataServiceTest.cls'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 18:56:27.073
+!MESSAGE  WARN [2014-10-01 18:56:27,072] (ProjectService.java:handleRetrieveMessages:2180) - Unable to handle retrieve message - could not find component 'classes/MetadataServiceTest.cls' for message 'In field: specific ids - no ApexClass named MetadataServiceTest found'
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 18:56:27.075
+!MESSAGE  WARN [2014-10-01 18:56:27,075] (Utils.java:loadDocument:823) - Unable to load document: /Users/roberto/proyectos/clay/clay-apps/sfafields/sf/.metadata/.plugins/org.eclipse.core.resources/.projects/development/com.salesforce.ide.core/packageCache.xml (No such file or directory)
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 18:56:27.076
+!MESSAGE  WARN [2014-10-01 18:56:27,076] (DeleteRefactorController.java:run:342) - Unable to update cache with with deleted component(s)  - cache is not found
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 19:19:29.970
+!MESSAGE  WARN [2014-10-01 19:19:29,969] (ConnectionFactory.java:clearCache:212) - Clearing the following cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 19:19:29.972
+!MESSAGE  WARN [2014-10-01 19:19:29,971] (DescribeObjectRegistry.java:clearCache:657) - Clearing cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-01 19:19:29.973
+!MESSAGE  WARN [2014-10-01 19:19:29,972] (MetadataFactory.java:clearCache:123) - Clearing the following cached metadata stubs
+
+!SESSION 2014-10-02 06:32:25.056 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Users/roberto/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -data /Users/roberto/proyectos/clay/clay-apps/sfafields/sf -keyring /Users/roberto/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2014-10-02 06:32:27.209
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.ui 4 0 2014-10-02 06:41:10.896
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Failed to execute runnable (java.lang.IllegalArgumentException: input or wait flag are null)
+	at org.eclipse.swt.SWT.error(SWT.java:3884)
+	at org.eclipse.swt.SWT.error(SWT.java:3799)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:137)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3342)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3071)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+Caused by: java.lang.IllegalArgumentException: input or wait flag are null
+	at org.eclipse.jdt.internal.ui.javaeditor.ASTProvider.getAST(ASTProvider.java:412)
+	at org.eclipse.jdt.ui.SharedASTProvider.getAST(SharedASTProvider.java:126)
+	at org.eclipse.jdt.internal.ui.text.correction.AssistContext.getASTRoot(AssistContext.java:112)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.getJavaAnnotationFixes(ProblemHover.java:212)
+	at org.eclipse.jdt.internal.ui.text.java.hover.ProblemHover$ProblemInfo.getCompletionProposals(ProblemHover.java:192)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl.deferredCreateContent(AbstractAnnotationHover.java:275)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl.setInput(AbstractAnnotationHover.java:181)
+	at org.eclipse.jface.text.AbstractInformationControlManager.internalShowInformationControl(AbstractInformationControlManager.java:1170)
+	at org.eclipse.jface.text.AbstractInformationControlManager.presentInformation(AbstractInformationControlManager.java:1139)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager.presentInformation(AbstractHoverInformationControlManager.java:902)
+	at org.eclipse.jface.text.TextViewerHoverManager.doPresentInformation(TextViewerHoverManager.java:243)
+	at org.eclipse.jface.text.TextViewerHoverManager$5.run(TextViewerHoverManager.java:233)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	... 22 more
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 06:43:09.717
+!MESSAGE  WARN [2014-10-02 06:43:09,706] (ApexReconcilingStrategy.java:handleException:155) - Error occured during reconcile
+
+!STACK 0
+java.lang.IllegalArgumentException: 12: line breaks not allowed in string literals
+	at com.salesforce.ide.ui.editors.apex.outline.AstUtils.removeComments(AstUtils.java:671)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexParserFactory.newParser(IdeApexParserFactory.java:45)
+	at com.salesforce.ide.ui.editors.apex.ApexReconcilingStrategy$1.run(ApexReconcilingStrategy.java:89)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.salesforce.ide.ui.editors.apex.ApexReconcilingStrategy.reconcile(ApexReconcilingStrategy.java:59)
+	at com.salesforce.ide.ui.editors.apex.ApexReconcilingStrategy.reconcile(ApexReconcilingStrategy.java:240)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at com.salesforce.ide.ui.editors.apex.ApexReconciler.process(ApexReconciler.java:288)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:206)
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 06:43:09.720
+!MESSAGE  WARN [2014-10-02 06:43:09,718] (ApexCodeEditor.java:getStatementNear:789) - An error occured while parsing the AST, the last cached version of the AST is being used
+
+!STACK 0
+java.lang.IllegalArgumentException: 12: line breaks not allowed in string literals
+	at com.salesforce.ide.ui.editors.apex.outline.AstUtils.removeComments(AstUtils.java:671)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexParserFactory.newParser(IdeApexParserFactory.java:45)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getStatementNear(ApexCodeEditor.java:784)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getSourceElementAt(ApexCodeEditor.java:745)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.computeHighlightRangeSourceReference(ApexCodeEditor.java:741)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.selectionChanged(ApexCodeEditor.java:605)
+	at com.salesforce.ide.ui.editors.apex.AstEditor$1.run(AstEditor.java:45)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3342)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3071)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 06:43:11.911
+!MESSAGE  WARN [2014-10-02 06:43:11,909] (ApexCodeEditor.java:getStatementNear:789) - An error occured while parsing the AST, the last cached version of the AST is being used
+
+!STACK 0
+java.lang.IllegalArgumentException: 12: line breaks not allowed in string literals
+	at com.salesforce.ide.ui.editors.apex.outline.AstUtils.removeComments(AstUtils.java:671)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexParserFactory.newParser(IdeApexParserFactory.java:45)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getStatementNear(ApexCodeEditor.java:784)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getSourceElementAt(ApexCodeEditor.java:745)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.computeHighlightRangeSourceReference(ApexCodeEditor.java:741)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.selectionChanged(ApexCodeEditor.java:605)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor$EditorSelectionChangedListener.selectionChanged(ApexCodeEditor.java:598)
+	at org.eclipse.jface.text.TextViewer.firePostSelectionChanged(TextViewer.java:2731)
+	at org.eclipse.jface.text.TextViewer.firePostSelectionChanged(TextViewer.java:2679)
+	at org.eclipse.jface.text.TextViewer$5.run(TextViewer.java:2658)
+	at org.eclipse.swt.widgets.Display.runTimers(Display.java:3570)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3045)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 06:43:12.724
+!MESSAGE  WARN [2014-10-02 06:43:12,722] (ApexCodeEditor.java:getStatementNear:789) - An error occured while parsing the AST, the last cached version of the AST is being used
+
+!STACK 0
+java.lang.IllegalArgumentException: 12: line breaks not allowed in string literals
+	at com.salesforce.ide.ui.editors.apex.outline.AstUtils.removeComments(AstUtils.java:671)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexParserFactory.newParser(IdeApexParserFactory.java:45)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getStatementNear(ApexCodeEditor.java:784)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getSourceElementAt(ApexCodeEditor.java:745)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.computeHighlightRangeSourceReference(ApexCodeEditor.java:741)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.selectionChanged(ApexCodeEditor.java:605)
+	at com.salesforce.ide.ui.editors.apex.AstEditor$1.run(AstEditor.java:45)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3342)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3071)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 06:43:14.852
+!MESSAGE  WARN [2014-10-02 06:43:14,851] (ApexCodeEditor.java:getStatementNear:789) - An error occured while parsing the AST, the last cached version of the AST is being used
+
+!STACK 0
+apex.parser.ApexParseException: unexpected token: 'global'
+	at apex.parser.ApexParser.parseClass(ApexParser.java:85)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexClzParser.parseClass(IdeApexClzParser.java:58)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexClzParser.parse(IdeApexClzParser.java:35)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getStatementNear(ApexCodeEditor.java:786)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getSourceElementAt(ApexCodeEditor.java:745)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.computeHighlightRangeSourceReference(ApexCodeEditor.java:741)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.selectionChanged(ApexCodeEditor.java:605)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor$EditorSelectionChangedListener.selectionChanged(ApexCodeEditor.java:598)
+	at org.eclipse.jface.text.TextViewer.firePostSelectionChanged(TextViewer.java:2731)
+	at org.eclipse.jface.text.TextViewer.firePostSelectionChanged(TextViewer.java:2679)
+	at org.eclipse.jface.text.TextViewer$5.run(TextViewer.java:2658)
+	at org.eclipse.swt.widgets.Display.runTimers(Display.java:3570)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3045)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+Caused by: NoViableAltException(36@[463:1: memberDecl[IContainer c, Modifiers o] : ( memberDeclaration[c, o] | n= identifier m= methodDeclaratorRest[c, null, o, n] | innerTypeDecl[c, o] );])
+	at org.antlr.runtime.DFA.noViableAlt(DFA.java:158)
+	at org.antlr.runtime.DFA.predict(DFA.java:116)
+	at apex.parser.gen.ApexParser.memberDecl(ApexParser.java:2379)
+	at apex.parser.gen.ApexParser.classBodyDeclaration(ApexParser.java:1178)
+	at apex.parser.gen.ApexParser.classDeclaration(ApexParser.java:561)
+	at apex.parser.gen.ApexParser.typeDeclaration(ApexParser.java:397)
+	at apex.parser.ApexParser.parseClass(ApexParser.java:79)
+	... 32 more
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 06:43:15.729
+!MESSAGE  WARN [2014-10-02 06:43:15,727] (ApexCodeEditor.java:getStatementNear:789) - An error occured while parsing the AST, the last cached version of the AST is being used
+
+!STACK 0
+apex.parser.ApexParseException: unexpected token: 'global'
+	at apex.parser.ApexParser.parseClass(ApexParser.java:85)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexClzParser.parseClass(IdeApexClzParser.java:58)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexClzParser.parse(IdeApexClzParser.java:35)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getStatementNear(ApexCodeEditor.java:786)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getSourceElementAt(ApexCodeEditor.java:745)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.computeHighlightRangeSourceReference(ApexCodeEditor.java:741)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.selectionChanged(ApexCodeEditor.java:605)
+	at com.salesforce.ide.ui.editors.apex.AstEditor$1.run(AstEditor.java:45)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3342)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3071)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+Caused by: NoViableAltException(36@[463:1: memberDecl[IContainer c, Modifiers o] : ( memberDeclaration[c, o] | n= identifier m= methodDeclaratorRest[c, null, o, n] | innerTypeDecl[c, o] );])
+	at org.antlr.runtime.DFA.noViableAlt(DFA.java:158)
+	at org.antlr.runtime.DFA.predict(DFA.java:116)
+	at apex.parser.gen.ApexParser.memberDecl(ApexParser.java:2379)
+	at apex.parser.gen.ApexParser.classBodyDeclaration(ApexParser.java:1178)
+	at apex.parser.gen.ApexParser.classDeclaration(ApexParser.java:561)
+	at apex.parser.gen.ApexParser.typeDeclaration(ApexParser.java:397)
+	at apex.parser.ApexParser.parseClass(ApexParser.java:79)
+	... 31 more
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 06:43:16.729
+!MESSAGE  WARN [2014-10-02 06:43:16,728] (ApexCodeEditor.java:getStatementNear:789) - An error occured while parsing the AST, the last cached version of the AST is being used
+
+!STACK 0
+apex.parser.ApexParseException: unexpected token: 'global'
+	at apex.parser.ApexParser.parseClass(ApexParser.java:85)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexClzParser.parseClass(IdeApexClzParser.java:58)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexClzParser.parse(IdeApexClzParser.java:35)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getStatementNear(ApexCodeEditor.java:786)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getSourceElementAt(ApexCodeEditor.java:745)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.computeHighlightRangeSourceReference(ApexCodeEditor.java:741)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.selectionChanged(ApexCodeEditor.java:605)
+	at com.salesforce.ide.ui.editors.apex.AstEditor$1.run(AstEditor.java:45)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3342)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3071)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+Caused by: NoViableAltException(36@[463:1: memberDecl[IContainer c, Modifiers o] : ( memberDeclaration[c, o] | n= identifier m= methodDeclaratorRest[c, null, o, n] | innerTypeDecl[c, o] );])
+	at org.antlr.runtime.DFA.noViableAlt(DFA.java:158)
+	at org.antlr.runtime.DFA.predict(DFA.java:116)
+	at apex.parser.gen.ApexParser.memberDecl(ApexParser.java:2379)
+	at apex.parser.gen.ApexParser.classBodyDeclaration(ApexParser.java:1178)
+	at apex.parser.gen.ApexParser.classDeclaration(ApexParser.java:561)
+	at apex.parser.gen.ApexParser.typeDeclaration(ApexParser.java:397)
+	at apex.parser.ApexParser.parseClass(ApexParser.java:79)
+	... 31 more
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 06:43:19.233
+!MESSAGE  WARN [2014-10-02 06:43:19,231] (ApexCodeEditor.java:getStatementNear:789) - An error occured while parsing the AST, the last cached version of the AST is being used
+
+!STACK 0
+apex.parser.ApexParseException: unexpected token: 'global'
+	at apex.parser.ApexParser.parseClass(ApexParser.java:85)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexClzParser.parseClass(IdeApexClzParser.java:58)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexClzParser.parse(IdeApexClzParser.java:35)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getStatementNear(ApexCodeEditor.java:786)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getSourceElementAt(ApexCodeEditor.java:745)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.computeHighlightRangeSourceReference(ApexCodeEditor.java:741)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.selectionChanged(ApexCodeEditor.java:605)
+	at com.salesforce.ide.ui.editors.apex.AstEditor$1.run(AstEditor.java:45)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3342)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3071)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+Caused by: NoViableAltException(36@[463:1: memberDecl[IContainer c, Modifiers o] : ( memberDeclaration[c, o] | n= identifier m= methodDeclaratorRest[c, null, o, n] | innerTypeDecl[c, o] );])
+	at org.antlr.runtime.DFA.noViableAlt(DFA.java:158)
+	at org.antlr.runtime.DFA.predict(DFA.java:116)
+	at apex.parser.gen.ApexParser.memberDecl(ApexParser.java:2379)
+	at apex.parser.gen.ApexParser.classBodyDeclaration(ApexParser.java:1178)
+	at apex.parser.gen.ApexParser.classDeclaration(ApexParser.java:561)
+	at apex.parser.gen.ApexParser.typeDeclaration(ApexParser.java:397)
+	at apex.parser.ApexParser.parseClass(ApexParser.java:79)
+	... 31 more
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 06:43:19.245
+!MESSAGE  WARN [2014-10-02 06:43:19,243] (ApexCodeEditor.java:getStatementNear:789) - An error occured while parsing the AST, the last cached version of the AST is being used
+
+!STACK 0
+apex.parser.ApexParseException: unexpected token: 'global'
+	at apex.parser.ApexParser.parseClass(ApexParser.java:85)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexClzParser.parseClass(IdeApexClzParser.java:58)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexClzParser.parse(IdeApexClzParser.java:35)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getStatementNear(ApexCodeEditor.java:786)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getSourceElementAt(ApexCodeEditor.java:745)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.computeHighlightRangeSourceReference(ApexCodeEditor.java:741)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.selectionChanged(ApexCodeEditor.java:605)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor$EditorSelectionChangedListener.selectionChanged(ApexCodeEditor.java:598)
+	at org.eclipse.jface.text.TextViewer.firePostSelectionChanged(TextViewer.java:2731)
+	at org.eclipse.jface.text.TextViewer.firePostSelectionChanged(TextViewer.java:2679)
+	at org.eclipse.jface.text.TextViewer$5.run(TextViewer.java:2658)
+	at org.eclipse.swt.widgets.Display.timerProc(Display.java:4061)
+	at org.eclipse.swt.internal.carbon.OS.ReceiveNextEvent(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3048)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+Caused by: NoViableAltException(36@[463:1: memberDecl[IContainer c, Modifiers o] : ( memberDeclaration[c, o] | n= identifier m= methodDeclaratorRest[c, null, o, n] | innerTypeDecl[c, o] );])
+	at org.antlr.runtime.DFA.noViableAlt(DFA.java:158)
+	at org.antlr.runtime.DFA.predict(DFA.java:116)
+	at apex.parser.gen.ApexParser.memberDecl(ApexParser.java:2379)
+	at apex.parser.gen.ApexParser.classBodyDeclaration(ApexParser.java:1178)
+	at apex.parser.gen.ApexParser.classDeclaration(ApexParser.java:561)
+	at apex.parser.gen.ApexParser.typeDeclaration(ApexParser.java:397)
+	at apex.parser.ApexParser.parseClass(ApexParser.java:79)
+	... 33 more
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 06:43:21.452
+!MESSAGE  WARN [2014-10-02 06:43:21,450] (ApexCodeEditor.java:getStatementNear:789) - An error occured while parsing the AST, the last cached version of the AST is being used
+
+!STACK 0
+apex.parser.ApexParseException: unexpected token: 'global'
+	at apex.parser.ApexParser.parseClass(ApexParser.java:85)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexClzParser.parseClass(IdeApexClzParser.java:58)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexClzParser.parse(IdeApexClzParser.java:35)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getStatementNear(ApexCodeEditor.java:786)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getSourceElementAt(ApexCodeEditor.java:745)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.computeHighlightRangeSourceReference(ApexCodeEditor.java:741)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.selectionChanged(ApexCodeEditor.java:605)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor$EditorSelectionChangedListener.selectionChanged(ApexCodeEditor.java:598)
+	at org.eclipse.jface.text.TextViewer.firePostSelectionChanged(TextViewer.java:2731)
+	at org.eclipse.jface.text.TextViewer.firePostSelectionChanged(TextViewer.java:2679)
+	at org.eclipse.jface.text.TextViewer$5.run(TextViewer.java:2658)
+	at org.eclipse.swt.widgets.Display.runTimers(Display.java:3570)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3045)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+Caused by: NoViableAltException(36@[463:1: memberDecl[IContainer c, Modifiers o] : ( memberDeclaration[c, o] | n= identifier m= methodDeclaratorRest[c, null, o, n] | innerTypeDecl[c, o] );])
+	at org.antlr.runtime.DFA.noViableAlt(DFA.java:158)
+	at org.antlr.runtime.DFA.predict(DFA.java:116)
+	at apex.parser.gen.ApexParser.memberDecl(ApexParser.java:2379)
+	at apex.parser.gen.ApexParser.classBodyDeclaration(ApexParser.java:1178)
+	at apex.parser.gen.ApexParser.classDeclaration(ApexParser.java:561)
+	at apex.parser.gen.ApexParser.typeDeclaration(ApexParser.java:397)
+	at apex.parser.ApexParser.parseClass(ApexParser.java:79)
+	... 32 more
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 06:43:21.738
+!MESSAGE  WARN [2014-10-02 06:43:21,737] (ApexCodeEditor.java:getStatementNear:789) - An error occured while parsing the AST, the last cached version of the AST is being used
+
+!STACK 0
+apex.parser.ApexParseException: unexpected token: 'global'
+	at apex.parser.ApexParser.parseClass(ApexParser.java:85)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexClzParser.parseClass(IdeApexClzParser.java:58)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexClzParser.parse(IdeApexClzParser.java:35)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getStatementNear(ApexCodeEditor.java:786)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getSourceElementAt(ApexCodeEditor.java:745)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.computeHighlightRangeSourceReference(ApexCodeEditor.java:741)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.selectionChanged(ApexCodeEditor.java:605)
+	at com.salesforce.ide.ui.editors.apex.AstEditor$1.run(AstEditor.java:45)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3342)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3071)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+Caused by: NoViableAltException(36@[463:1: memberDecl[IContainer c, Modifiers o] : ( memberDeclaration[c, o] | n= identifier m= methodDeclaratorRest[c, null, o, n] | innerTypeDecl[c, o] );])
+	at org.antlr.runtime.DFA.noViableAlt(DFA.java:158)
+	at org.antlr.runtime.DFA.predict(DFA.java:116)
+	at apex.parser.gen.ApexParser.memberDecl(ApexParser.java:2379)
+	at apex.parser.gen.ApexParser.classBodyDeclaration(ApexParser.java:1178)
+	at apex.parser.gen.ApexParser.classDeclaration(ApexParser.java:561)
+	at apex.parser.gen.ApexParser.typeDeclaration(ApexParser.java:397)
+	at apex.parser.ApexParser.parseClass(ApexParser.java:79)
+	... 31 more
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 06:43:23.492
+!MESSAGE  WARN [2014-10-02 06:43:23,491] (ApexCodeEditor.java:getStatementNear:789) - An error occured while parsing the AST, the last cached version of the AST is being used
+
+!STACK 0
+apex.parser.ApexParseException: unexpected token: 'global'
+	at apex.parser.ApexParser.parseClass(ApexParser.java:85)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexClzParser.parseClass(IdeApexClzParser.java:58)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexClzParser.parse(IdeApexClzParser.java:35)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getStatementNear(ApexCodeEditor.java:786)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getSourceElementAt(ApexCodeEditor.java:745)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.computeHighlightRangeSourceReference(ApexCodeEditor.java:741)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.selectionChanged(ApexCodeEditor.java:605)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor$EditorSelectionChangedListener.selectionChanged(ApexCodeEditor.java:598)
+	at org.eclipse.jface.text.TextViewer.firePostSelectionChanged(TextViewer.java:2731)
+	at org.eclipse.jface.text.TextViewer.firePostSelectionChanged(TextViewer.java:2679)
+	at org.eclipse.jface.text.TextViewer$5.run(TextViewer.java:2658)
+	at org.eclipse.swt.widgets.Display.runTimers(Display.java:3570)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3045)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+Caused by: NoViableAltException(36@[463:1: memberDecl[IContainer c, Modifiers o] : ( memberDeclaration[c, o] | n= identifier m= methodDeclaratorRest[c, null, o, n] | innerTypeDecl[c, o] );])
+	at org.antlr.runtime.DFA.noViableAlt(DFA.java:158)
+	at org.antlr.runtime.DFA.predict(DFA.java:116)
+	at apex.parser.gen.ApexParser.memberDecl(ApexParser.java:2379)
+	at apex.parser.gen.ApexParser.classBodyDeclaration(ApexParser.java:1178)
+	at apex.parser.gen.ApexParser.classDeclaration(ApexParser.java:561)
+	at apex.parser.gen.ApexParser.typeDeclaration(ApexParser.java:397)
+	at apex.parser.ApexParser.parseClass(ApexParser.java:79)
+	... 32 more
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 06:43:25.545
+!MESSAGE  WARN [2014-10-02 06:43:25,544] (ApexCodeEditor.java:getStatementNear:789) - An error occured while parsing the AST, the last cached version of the AST is being used
+
+!STACK 0
+apex.parser.ApexParseException: unexpected token: 'global'
+	at apex.parser.ApexParser.parseClass(ApexParser.java:85)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexClzParser.parseClass(IdeApexClzParser.java:58)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexClzParser.parse(IdeApexClzParser.java:35)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getStatementNear(ApexCodeEditor.java:786)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getSourceElementAt(ApexCodeEditor.java:745)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.computeHighlightRangeSourceReference(ApexCodeEditor.java:741)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.selectionChanged(ApexCodeEditor.java:605)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor$EditorSelectionChangedListener.selectionChanged(ApexCodeEditor.java:598)
+	at org.eclipse.jface.text.TextViewer.firePostSelectionChanged(TextViewer.java:2731)
+	at org.eclipse.jface.text.TextViewer.firePostSelectionChanged(TextViewer.java:2679)
+	at org.eclipse.jface.text.TextViewer$5.run(TextViewer.java:2658)
+	at org.eclipse.swt.widgets.Display.runTimers(Display.java:3570)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3045)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+Caused by: NoViableAltException(36@[463:1: memberDecl[IContainer c, Modifiers o] : ( memberDeclaration[c, o] | n= identifier m= methodDeclaratorRest[c, null, o, n] | innerTypeDecl[c, o] );])
+	at org.antlr.runtime.DFA.noViableAlt(DFA.java:158)
+	at org.antlr.runtime.DFA.predict(DFA.java:116)
+	at apex.parser.gen.ApexParser.memberDecl(ApexParser.java:2379)
+	at apex.parser.gen.ApexParser.classBodyDeclaration(ApexParser.java:1178)
+	at apex.parser.gen.ApexParser.classDeclaration(ApexParser.java:561)
+	at apex.parser.gen.ApexParser.typeDeclaration(ApexParser.java:397)
+	at apex.parser.ApexParser.parseClass(ApexParser.java:79)
+	... 32 more
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 06:43:25.743
+!MESSAGE  WARN [2014-10-02 06:43:25,742] (ApexCodeEditor.java:getStatementNear:789) - An error occured while parsing the AST, the last cached version of the AST is being used
+
+!STACK 0
+apex.parser.ApexParseException: unexpected token: 'global'
+	at apex.parser.ApexParser.parseClass(ApexParser.java:85)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexClzParser.parseClass(IdeApexClzParser.java:58)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexClzParser.parse(IdeApexClzParser.java:35)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getStatementNear(ApexCodeEditor.java:786)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getSourceElementAt(ApexCodeEditor.java:745)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.computeHighlightRangeSourceReference(ApexCodeEditor.java:741)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.selectionChanged(ApexCodeEditor.java:605)
+	at com.salesforce.ide.ui.editors.apex.AstEditor$1.run(AstEditor.java:45)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3342)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3071)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+Caused by: NoViableAltException(36@[463:1: memberDecl[IContainer c, Modifiers o] : ( memberDeclaration[c, o] | n= identifier m= methodDeclaratorRest[c, null, o, n] | innerTypeDecl[c, o] );])
+	at org.antlr.runtime.DFA.noViableAlt(DFA.java:158)
+	at org.antlr.runtime.DFA.predict(DFA.java:116)
+	at apex.parser.gen.ApexParser.memberDecl(ApexParser.java:2379)
+	at apex.parser.gen.ApexParser.classBodyDeclaration(ApexParser.java:1178)
+	at apex.parser.gen.ApexParser.classDeclaration(ApexParser.java:561)
+	at apex.parser.gen.ApexParser.typeDeclaration(ApexParser.java:397)
+	at apex.parser.ApexParser.parseClass(ApexParser.java:79)
+	... 31 more
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 06:43:48.922
+!MESSAGE  WARN [2014-10-02 06:43:48,922] (ProjectService.java:handleDeployResult:1909) - Save failed!
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 06:43:48.939
+!MESSAGE  WARN [2014-10-02 06:43:48,939] (ProjectService.java:handleRetrieveResult:2085) - Nothing to save to project - retrieve result is empty
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 07:05:00.713
+!MESSAGE  WARN [2014-10-02 07:05:00,703] (ApexReconcilingStrategy.java:handleException:155) - Error occured during reconcile
+
+!STACK 0
+java.lang.IllegalArgumentException: 14: line breaks not allowed in string literals
+	at com.salesforce.ide.ui.editors.apex.outline.AstUtils.removeComments(AstUtils.java:671)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexParserFactory.newParser(IdeApexParserFactory.java:45)
+	at com.salesforce.ide.ui.editors.apex.ApexReconcilingStrategy$1.run(ApexReconcilingStrategy.java:89)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at com.salesforce.ide.ui.editors.apex.ApexReconcilingStrategy.reconcile(ApexReconcilingStrategy.java:59)
+	at com.salesforce.ide.ui.editors.apex.ApexReconcilingStrategy.reconcile(ApexReconcilingStrategy.java:240)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:77)
+	at com.salesforce.ide.ui.editors.apex.ApexReconciler.process(ApexReconciler.java:288)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:206)
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 07:05:00.716
+!MESSAGE  WARN [2014-10-02 07:05:00,715] (ApexCodeEditor.java:getStatementNear:789) - An error occured while parsing the AST, the last cached version of the AST is being used
+
+!STACK 0
+java.lang.IllegalArgumentException: 14: line breaks not allowed in string literals
+	at com.salesforce.ide.ui.editors.apex.outline.AstUtils.removeComments(AstUtils.java:671)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexParserFactory.newParser(IdeApexParserFactory.java:45)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getStatementNear(ApexCodeEditor.java:784)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getSourceElementAt(ApexCodeEditor.java:745)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.computeHighlightRangeSourceReference(ApexCodeEditor.java:741)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.selectionChanged(ApexCodeEditor.java:605)
+	at com.salesforce.ide.ui.editors.apex.AstEditor$1.run(AstEditor.java:45)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3342)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3071)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 07:05:01.718
+!MESSAGE  WARN [2014-10-02 07:05:01,717] (ApexCodeEditor.java:getStatementNear:789) - An error occured while parsing the AST, the last cached version of the AST is being used
+
+!STACK 0
+java.lang.IllegalArgumentException: 14: line breaks not allowed in string literals
+	at com.salesforce.ide.ui.editors.apex.outline.AstUtils.removeComments(AstUtils.java:671)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexParserFactory.newParser(IdeApexParserFactory.java:45)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getStatementNear(ApexCodeEditor.java:784)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.getSourceElementAt(ApexCodeEditor.java:745)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.computeHighlightRangeSourceReference(ApexCodeEditor.java:741)
+	at com.salesforce.ide.ui.editors.apex.ApexCodeEditor.selectionChanged(ApexCodeEditor.java:605)
+	at com.salesforce.ide.ui.editors.apex.AstEditor$1.run(AstEditor.java:45)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3342)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3071)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 07:05:16.735
+!MESSAGE  WARN [2014-10-02 07:05:16,725] (ResolveInstVarProposal.java:construct:100) - Core exception happened on Apex class 'void' in project 'development'
+
+!STACK 1
+org.eclipse.core.runtime.CoreException: Unable to locate class 'void' in project 'development'
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexParserFactory.lookupApexClzOrTrigger(IdeApexParserFactory.java:77)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexParserFactory.newParser(IdeApexParserFactory.java:34)
+	at com.salesforce.ide.ui.editors.apex.assistance.proposals.ResolveInstVarProposal.construct(ResolveInstVarProposal.java:88)
+	at com.salesforce.ide.ui.editors.apex.assistance.proposals.ProposalAggregator.construct(ProposalAggregator.java:171)
+	at com.salesforce.ide.ui.editors.apex.assistance.proposals.ApexCompletionProposalDelegate.construct(ApexCompletionProposalDelegate.java:88)
+	at com.salesforce.ide.ui.editors.apex.assistance.ApexCompletionProcessor.computeCompletionProposals(ApexCompletionProcessor.java:93)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1832)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:556)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeFilteredProposals(CompletionProposalPopup.java:1432)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$4(CompletionProposalPopup.java:1421)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$1.run(CompletionProposalPopup.java:372)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3342)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3071)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+!SUBENTRY 1 org.eclipse.jdt.ui 2 2 2014-10-02 07:05:16.736
+!MESSAGE Unable to locate class 'void' in project 'development'
+
+!ENTRY org.eclipse.core.jobs 4 2 2014-10-02 07:11:27.940
+!MESSAGE An internal error occurred during: "Execute-Anonymous".
+!STACK 0
+java.lang.NullPointerException
+	at com.salesforce.ide.core.internal.utils.ForceExceptionUtils.getConnectionCauseExceptionMessage(ForceExceptionUtils.java:97)
+	at com.salesforce.ide.core.services.ApexService.errorExecuteAnonymousResult(ApexService.java:88)
+	at com.salesforce.ide.core.services.ApexService.executeAnonymous(ApexService.java:41)
+	at com.salesforce.ide.core.services.ApexService$$FastClassByCGLIB$$5932a7ac.invoke(<generated>)
+	at net.sf.cglib.proxy.MethodProxy.invoke(MethodProxy.java:149)
+	at org.springframework.aop.framework.Cglib2AopProxy$CglibMethodInvocation.invokeJoinpoint(Cglib2AopProxy.java:700)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:149)
+	at org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(MethodBeforeAdviceInterceptor.java:50)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:90)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.framework.Cglib2AopProxy$DynamicAdvisedInterceptor.intercept(Cglib2AopProxy.java:635)
+	at com.salesforce.ide.core.services.ApexService$$EnhancerByCGLIB$$d4bd466b.executeAnonymous(<generated>)
+	at com.salesforce.ide.ui.views.executeanonymous.ExecuteAnonymousController.executeExecuteAnonymous(ExecuteAnonymousController.java:28)
+	at com.salesforce.ide.ui.views.executeanonymous.ExecuteAnonymousViewComposite$4.runInWorkspace(ExecuteAnonymousViewComposite.java:161)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.core.jobs 4 2 2014-10-02 07:11:34.636
+!MESSAGE An internal error occurred during: "Execute-Anonymous".
+!STACK 0
+java.lang.NullPointerException
+	at com.salesforce.ide.core.internal.utils.ForceExceptionUtils.getConnectionCauseExceptionMessage(ForceExceptionUtils.java:97)
+	at com.salesforce.ide.core.services.ApexService.errorExecuteAnonymousResult(ApexService.java:88)
+	at com.salesforce.ide.core.services.ApexService.executeAnonymous(ApexService.java:41)
+	at com.salesforce.ide.core.services.ApexService$$FastClassByCGLIB$$5932a7ac.invoke(<generated>)
+	at net.sf.cglib.proxy.MethodProxy.invoke(MethodProxy.java:149)
+	at org.springframework.aop.framework.Cglib2AopProxy$CglibMethodInvocation.invokeJoinpoint(Cglib2AopProxy.java:700)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:149)
+	at org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(MethodBeforeAdviceInterceptor.java:50)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:90)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:171)
+	at org.springframework.aop.framework.Cglib2AopProxy$DynamicAdvisedInterceptor.intercept(Cglib2AopProxy.java:635)
+	at com.salesforce.ide.core.services.ApexService$$EnhancerByCGLIB$$d4bd466b.executeAnonymous(<generated>)
+	at com.salesforce.ide.ui.views.executeanonymous.ExecuteAnonymousController.executeExecuteAnonymous(ExecuteAnonymousController.java:28)
+	at com.salesforce.ide.ui.views.executeanonymous.ExecuteAnonymousViewComposite$4.runInWorkspace(ExecuteAnonymousViewComposite.java:161)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:38)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 07:12:40.673
+!MESSAGE  WARN [2014-10-02 07:12:40,663] (ProjectService.java:handleDeployResult:1909) - Save failed!
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 07:12:40.681
+!MESSAGE  WARN [2014-10-02 07:12:40,680] (ProjectService.java:handleRetrieveResult:2085) - Nothing to save to project - retrieve result is empty
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 07:31:36.741
+!MESSAGE  WARN [2014-10-02 07:31:36,729] (ResolveInstVarProposal.java:construct:100) - Core exception happened on Apex class 'list' in project 'development'
+
+!STACK 1
+org.eclipse.core.runtime.CoreException: Unable to locate class 'list' in project 'development'
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexParserFactory.lookupApexClzOrTrigger(IdeApexParserFactory.java:77)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexParserFactory.newParser(IdeApexParserFactory.java:34)
+	at com.salesforce.ide.ui.editors.apex.assistance.proposals.ResolveInstVarProposal.construct(ResolveInstVarProposal.java:88)
+	at com.salesforce.ide.ui.editors.apex.assistance.proposals.ProposalAggregator.construct(ProposalAggregator.java:171)
+	at com.salesforce.ide.ui.editors.apex.assistance.proposals.ApexCompletionProposalDelegate.construct(ApexCompletionProposalDelegate.java:88)
+	at com.salesforce.ide.ui.editors.apex.assistance.ApexCompletionProcessor.computeCompletionProposals(ApexCompletionProcessor.java:93)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1832)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:556)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:553)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:488)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:482)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:376)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3342)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3071)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+!SUBENTRY 1 org.eclipse.jdt.ui 2 2 2014-10-02 07:31:36.745
+!MESSAGE Unable to locate class 'list' in project 'development'
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 07:31:36.752
+!MESSAGE  WARN [2014-10-02 07:31:36,750] (ResolveChainedReturnTypeProposal.java:staticMethodReturnType:279) - Core exception happened on Apex class 'ACCSETCONTROLLER' in project 'development'
+
+!STACK 1
+org.eclipse.core.runtime.CoreException: Unable to locate class 'ACCSETCONTROLLER' in project 'development'
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexParserFactory.lookupApexClzOrTrigger(IdeApexParserFactory.java:77)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexParserFactory.newParser(IdeApexParserFactory.java:34)
+	at com.salesforce.ide.ui.editors.apex.assistance.proposals.ResolveChainedReturnTypeProposal$ResolveStaticMethodReturnType.staticMethodReturnType(ResolveChainedReturnTypeProposal.java:246)
+	at com.salesforce.ide.ui.editors.apex.assistance.proposals.ResolveChainedReturnTypeProposal$ResolveStaticMethodReturnType.resolveChainedReturnType(ResolveChainedReturnTypeProposal.java:207)
+	at com.salesforce.ide.ui.editors.apex.assistance.proposals.ResolveChainedReturnTypeProposal.resolveVarType(ResolveChainedReturnTypeProposal.java:59)
+	at com.salesforce.ide.ui.editors.apex.assistance.proposals.ResolveInstVarProposal.construct(ResolveInstVarProposal.java:38)
+	at com.salesforce.ide.ui.editors.apex.assistance.proposals.ProposalAggregator.construct(ProposalAggregator.java:171)
+	at com.salesforce.ide.ui.editors.apex.assistance.proposals.ApexCompletionProposalDelegate.construct(ApexCompletionProposalDelegate.java:88)
+	at com.salesforce.ide.ui.editors.apex.assistance.ApexCompletionProcessor.computeCompletionProposals(ApexCompletionProcessor.java:93)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1832)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:556)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:553)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:488)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:482)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:376)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3342)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3071)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+!SUBENTRY 1 org.eclipse.jdt.ui 2 2 2014-10-02 07:31:36.752
+!MESSAGE Unable to locate class 'ACCSETCONTROLLER' in project 'development'
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 07:31:39.601
+!MESSAGE  WARN [2014-10-02 07:31:39,599] (ResolveInstVarProposal.java:construct:100) - Core exception happened on Apex class 'list' in project 'development'
+
+!STACK 1
+org.eclipse.core.runtime.CoreException: Unable to locate class 'list' in project 'development'
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexParserFactory.lookupApexClzOrTrigger(IdeApexParserFactory.java:77)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexParserFactory.newParser(IdeApexParserFactory.java:34)
+	at com.salesforce.ide.ui.editors.apex.assistance.proposals.ResolveInstVarProposal.construct(ResolveInstVarProposal.java:88)
+	at com.salesforce.ide.ui.editors.apex.assistance.proposals.ProposalAggregator.construct(ProposalAggregator.java:171)
+	at com.salesforce.ide.ui.editors.apex.assistance.proposals.ApexCompletionProposalDelegate.construct(ApexCompletionProposalDelegate.java:88)
+	at com.salesforce.ide.ui.editors.apex.assistance.ApexCompletionProcessor.computeCompletionProposals(ApexCompletionProcessor.java:93)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1832)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:556)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:553)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:488)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:482)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:376)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3342)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3071)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+!SUBENTRY 1 org.eclipse.jdt.ui 2 2 2014-10-02 07:31:39.601
+!MESSAGE Unable to locate class 'list' in project 'development'
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 07:31:39.606
+!MESSAGE  WARN [2014-10-02 07:31:39,605] (ResolveChainedReturnTypeProposal.java:staticMethodReturnType:279) - Core exception happened on Apex class 'ACCSETCONTROLLER' in project 'development'
+
+!STACK 1
+org.eclipse.core.runtime.CoreException: Unable to locate class 'ACCSETCONTROLLER' in project 'development'
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexParserFactory.lookupApexClzOrTrigger(IdeApexParserFactory.java:77)
+	at com.salesforce.ide.ui.editors.apex.ast.IdeApexParserFactory.newParser(IdeApexParserFactory.java:34)
+	at com.salesforce.ide.ui.editors.apex.assistance.proposals.ResolveChainedReturnTypeProposal$ResolveStaticMethodReturnType.staticMethodReturnType(ResolveChainedReturnTypeProposal.java:246)
+	at com.salesforce.ide.ui.editors.apex.assistance.proposals.ResolveChainedReturnTypeProposal$ResolveStaticMethodReturnType.resolveChainedReturnType(ResolveChainedReturnTypeProposal.java:207)
+	at com.salesforce.ide.ui.editors.apex.assistance.proposals.ResolveChainedReturnTypeProposal.resolveVarType(ResolveChainedReturnTypeProposal.java:59)
+	at com.salesforce.ide.ui.editors.apex.assistance.proposals.ResolveInstVarProposal.construct(ResolveInstVarProposal.java:38)
+	at com.salesforce.ide.ui.editors.apex.assistance.proposals.ProposalAggregator.construct(ProposalAggregator.java:171)
+	at com.salesforce.ide.ui.editors.apex.assistance.proposals.ApexCompletionProposalDelegate.construct(ApexCompletionProposalDelegate.java:88)
+	at com.salesforce.ide.ui.editors.apex.assistance.ApexCompletionProcessor.computeCompletionProposals(ApexCompletionProcessor.java:93)
+	at org.eclipse.jface.text.contentassist.ContentAssistant.computeCompletionProposals(ContentAssistant.java:1832)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.computeProposals(CompletionProposalPopup.java:556)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.access$16(CompletionProposalPopup.java:553)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$2.run(CompletionProposalPopup.java:488)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.showProposals(CompletionProposalPopup.java:482)
+	at org.eclipse.jface.text.contentassist.ContentAssistant$2.run(ContentAssistant.java:376)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:134)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3342)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3071)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2405)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2369)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2221)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:500)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:493)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:194)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:368)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:559)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:514)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1311)
+!SUBENTRY 1 org.eclipse.jdt.ui 2 2 2014-10-02 07:31:39.607
+!MESSAGE Unable to locate class 'ACCSETCONTROLLER' in project 'development'
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 08:11:24.649
+!MESSAGE  WARN [2014-10-02 08:11:24,640] (ProjectService.java:handleDeployResult:1909) - Save failed!
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 08:11:24.654
+!MESSAGE  WARN [2014-10-02 08:11:24,653] (ProjectService.java:handleRetrieveResult:2085) - Nothing to save to project - retrieve result is empty
+
+
+!ENTRY com.salesforce.ide.core 2 0 2014-10-02 08:12:47.597
+!MESSAGE  WARN [2014-10-02 08:12:47,596] (BaseComponentMultiPageEditorPart.java:setInput:132) - Unable to open Apex Editor for file 'sfafields.cls-meta.xml'
+

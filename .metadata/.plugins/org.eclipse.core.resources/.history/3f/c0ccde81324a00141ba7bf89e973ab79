@@ -1,0 +1,55 @@
+global class sfafields {
+
+	@RemoteAction
+	global static string ListViews(String ObjectName){
+           String ListViewURL;
+           String ListViewId;
+           String q = 'SELECT Name FROM '+ ObjectName +' LIMIT 1';
+           ApexPages.StandardSetController ACC = new ApexPages.StandardSetController(Database.getQueryLocator(q));
+           List<SelectOption> ListViews = ACC.getListViewOptions();
+			string json = '{"objects":[';
+           for(SelectOption w : ListViews ){
+               string part = '{"id":"'+ w.getValue() +'","label":'+ w.getLabel() + '"}';
+           }
+           return json;
+       }
+
+	@RemoteAction
+	global static string ListObjects(){
+		Map<string, Schema.sObjectType> result= Schema.getGlobalDescribe();
+		string json = '{"objects":[';
+		List<string> parts = new List<String>();
+		for(string key :  result.keySet() ){
+   			DescribeSObjectResult r = result.get(key).getDescribe();
+   			string part = '{"Prefix":"'+r.getKeyPrefix() +'","Setting":'+r.isCustomSetting() +',"Custom": '+r.isCustom() +',"Name": "'+r.getName()+'","Label": "'+ r.getLabel() +'"}';
+    		parts.add(part);
+		}
+		json += String.join(parts,',');
+		json += ']}';
+		return json;
+
+	}
+	
+	@RemoteAction
+	public static string listFields(string objtype){
+		Schema.SObjectType targetType = Schema.getGlobalDescribe().get(objtype);
+        
+        Map<String, Schema.sObjectField> targetFields = targetType.getDescribe().fields.getMap();
+        
+        string json = '{"fields":[';
+        		List<string> parts = new List<String>();
+        
+        for (String key : targetFields.keySet()) {
+        	//system.debug(targetFields.get(key).getDescribe().getName());
+        	DescribeFieldResult r  = targetFields.get(key).getDescribe();
+        	string part = '{"Type": "'+r.getType() + '","Name": "'+r.getName()+'","Label": "'+ r.getLabel() +'"}';
+    		parts.add(part);
+        }
+        
+       	json += String.join(parts,',');
+		json += ']}';
+        
+		return json;
+	}
+
+}

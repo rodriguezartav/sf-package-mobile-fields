@@ -1,0 +1,40 @@
+public class objectHelper {
+
+	public static string ListObjects(){
+		Map<string, Schema.sObjectType> result= Schema.getGlobalDescribe();
+		string json = '{"objects":[';
+		List<string> parts = new List<String>();
+		for(string key :  result.keySet() ){
+   			DescribeSObjectResult r = result.get(key).getDescribe();
+   			string part = '{"name": "'+r.getName()+'","label": "'+ r.getLabel() +'"}';
+    		parts.add(part);
+		}
+		json += String.join(parts,',');
+		json += '"]}"';
+		return json;
+
+	}
+
+	public static string listFields(string objtype){
+		Schema.SObjectType targetType = Schema.getGlobalDescribe().get(objtype);
+        
+        Map<String, Schema.sObjectField> targetFields = targetType.getDescribe().fields.getMap();
+        
+        string json = '{"fields":[';
+        		List<string> parts = new List<String>();
+        
+        for (String key : targetFields.keySet()) {
+        	//system.debug(targetFields.get(key).getDescribe().getName());
+        	DescribeFieldResult r  = targetFields.get(key).getDescribe();
+        	string part = '{"type": "'+r.getType() + '","name": "'+r.getName()+'","label": "'+ r.getLabel() +'"}';
+    		parts.add(part);
+        }
+        
+       	json += String.join(parts,',');
+		json += '"]}"';
+        
+		return json;
+	}
+
+   
+}

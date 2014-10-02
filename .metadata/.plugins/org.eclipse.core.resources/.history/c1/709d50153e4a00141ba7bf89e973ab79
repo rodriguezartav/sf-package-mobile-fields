@@ -1,0 +1,100 @@
+// Roberto Rodriguez - 3VOT Corporation
+// General Apex Controller for SF1Fields Clay App 
+// ** 
+// This funcion
+// **
+
+global class sfafields {
+
+	//Methods for SF1Fields to enable ListViews and ListViewRecords in App 
+	
+	// Uses StandardSetController to get List of Records Filtered by ViewID
+	// Input: 
+	//    objectName - Name of Object
+	//    fieldList  - List of fields separated by ,
+	//    id         - ListView Id used to filter
+	// Output - Standard List in JSON
+	// TODO   - Make sure all Records are returnted at once, or implemente Paging somehow     
+	@RemoteAction
+	global static string ListViewRecords(String objectName, String fieldList, String listViewId){
+       String ListViewURL;
+       String ListViewId;
+       String q = 'SELECT ' + fieldList + ' FROM '+ ObjectName +' LIMIT 10000';
+        ApexPages.StandardSetController AccSetController = new ApexPages.StandardSetController(Database.getQueryLocator(q));
+        AccSetController.setPageSize(200);
+        AccSetController.setFilterId(listViewId);
+      	
+        String JSONString = JSON.serialize(AccSetController.getRecords());
+      
+       return JSONString;
+   }
+	
+	// Uses StandardSetController to get List of View per Object
+	// Outputs JSON, built manually
+	@RemoteAction
+	global static string ListViews(String ObjectName){
+           String ListViewURL;
+           String ListViewId;
+           String q = 'SELECT id FROM '+ ObjectName +' LIMIT 1';
+           ApexPages.StandardSetController ACC = new ApexPages.StandardSetController(Database.getQueryLocator(q));
+           List<SelectOption> ListViews = ACC.getListViewOptions();
+		   string json = '{"views":[';
+		   List<string> parts = new List<String>();
+			
+           for(SelectOption w : ListViews ){
+             string part = '{"id":"'+ w.getValue() +'","label":"'+ w.getLabel() + '"}';
+             parts.add(part);		
+           }
+           
+           json += String.join(parts,',');
+		   json += ']}';
+           
+           return json;
+       }
+
+   //Methods for SFAFields to List Objects and Fields in Object
+
+   // Uses Global Describe to list all Objects in Organization
+   // Outputs JSON, built manually.
+	@RemoteAction
+	global static string ListObjects(){
+		Map<string, Schema.sObjectType> result= Schema.getGlobalDescribe();
+		string json = '{"objects":[';
+		List<string> parts = new List<String>();
+		for(string key :  result.keySet() ){
+   			DescribeSObjectResult r = result.get(key).getDescribe();
+   			string part = '{"Prefix":"'+r.getKeyPrefix() +'","Setting":'+r.isCustomSetting() +',"Custom": '+r.isCustom() +',"Name": "'+r.getName()+'","Label": "'+ r.getLabel() +'"}';
+    		parts.add(part);
+		}
+		json += String.join(parts,',');
+		json += ']}';
+		return json;
+
+	}
+	
+    // Uses Object Describe to list all fields in Object
+    // Input Params - Object Name
+    // Outputs JSON, formated by hand.
+	@RemoteAction
+	public static string listFields(string objtype){
+		Schema.SObjectType targetType = Schema.getGlobalDescribe().get(objtype);
+        
+        Map<String, Schema.sObjectField> targetFields = targetType.getDescribe().fields.getMap();
+        
+        string json = '{"fields":[';
+        		List<string> parts = new List<String>();
+        
+        for (String key : targetFields.keySet()) {
+        	//system.debug(targetFields.get(key).getDescribe().getName());
+        	DescribeFieldResult r  = targetFields.get(key).getDescribe();
+        	string part = '{"Type": "'+r.getType() + '","Name": "'+r.getName()+'","Label": "'+ r.getLabel() +'"}';
+    		parts.add(part);
+        }
+        
+       	json += String.join(parts,',');
+		json += ']}';
+        
+		return json;
+	}
+
+}
